@@ -1,0 +1,30 @@
+============================================================
+ALEX RIVERA — FULL-STACK SOFTWARE ENGINEER
+Email: seeker@example.com | Phone: +1 (555) 321-8765
+Location: Austin, TX | Portfolio: https://alexrivera.dev
+============================================================
+
+SUMMARY:
+Passionate Full-Stack Software Engineer with 4+ years of hands-on experience
+building scalable web applications using React, Node.js, Express, and modern databases.
+
+TECHNICAL SKILLS:
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+- Frontend: React, Redux, Tailwind CSS, Vite, Next.js
+- Backend: Node.js, Express, RESTful APIs, GraphQL
+- Databases: PostgreSQL, SQLite, MongoDB, Redis
+- Tools & DevOps: Git, Docker, Jest, CI/CD, AWS
+
+PROFESSIONAL EXPERIENCE:
+Senior Frontend Developer | Nexus Digital (2023 - Present)
+- Engineered responsive React user interfaces serving over 250,000 active users.
+- Improved Core Web Vitals score from 68 to 96, reducing bounce rate by 22%.
+- Mentored 4 junior developers in state management best practices and clean component design.
+
+Full-Stack Developer | InnovateTech (2021 - 2023)
+- Built microservices and REST APIs using Node.js and Express.
+- Integrated automated payment workflows and secure JWT-based authentication.
+
+EDUCATION:
+B.S. in Computer Science — University of Texas at Austin (2017 - 2021)
+============================================================
